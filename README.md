@@ -20,7 +20,7 @@ QR code component and get it looking as close to the design as possible.
 Desktop
 ![desktop](./design/screen_1.png)
 Mobile
-![mobile](./design/screen_2_png)
+![mobile](./design/screen_2.png)
 
 ### Links
 
