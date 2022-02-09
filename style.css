@@ -34,7 +34,6 @@ h2{
 }
 .card{
     width: 24rem;
-    height: 60%;
     background-color:var(--white);
     border-radius: 16px;
     justify-content: center;
@@ -62,9 +61,6 @@ h2{
         letter-spacing: 0.02em;
         margin-left: 1em;
         margin-right: 1em;
-    }
-    .card{
-        height: 70%;
     }
 }
 
